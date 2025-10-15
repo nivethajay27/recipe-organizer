@@ -1,5 +1,5 @@
 # 🍴 Recipe Organizer  
-*A full-stack app(React + Node.js + Express.js + PostgreSQL) to save, tag, and search your favorite recipes — fast and beautifully.*
+*A full-stack app(React + Node.js + Express.js + PostgreSQL) to save, tag, and search your favorite recipes*
 
 Recipe Organizer lets you create, browse, and manage your favorite dishes in one clean place.  
 You can upload images, type ingredients and instructions, tag recipes (like **vegan**, **dessert**, **quick**), favorite them, and instantly filter by tag or search term.
@@ -51,7 +51,7 @@ node index.js
 ---
 Create a .env file in /server:
 
-DATABASE_URL=postgres://postgres@localhost:5432/recipe_db
+DATABASE_URL=postgres://postgres@localhost:5432/recipe_db <br>
 PORT=4000
 
 ### 💻 Frontend (Client)
