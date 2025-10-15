@@ -5,9 +5,9 @@ Recipe Organizer lets you create, browse, and manage your favorite dishes in one
 You can upload images, type ingredients and instructions, tag recipes (like **vegan**, **dessert**, **quick**), favorite them, and instantly filter by tag or search term.
 
 ---
-| Add Recipe | | Home Recipe | Search Recipes | Recipe Modal |
+| Add Recipe | Home Page | Search Recipes | Recipe Modal |
 |:--:|:--:|:--:|:--:|
-| ![Add Recipe](screenshots/add-recipe.png) || ![Home Recipe](screenshots/home.png) |  ![Search](screenshots/search.png) | ![Modal](screenshots/modal.png) |
+| ![Add Recipe](screenshots/add-recipe.png) | ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Modal](screenshots/modal.png) |
 
 ---
 
